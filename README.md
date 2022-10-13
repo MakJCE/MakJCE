@@ -12,6 +12,29 @@ stack developer on Truextend. I wish to continue my software
 development career in a serious company and start creating
 software that adds value to our society.
 
+## My Stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MakJCE)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakJCE)](https://github.com/MakJCE/github-readme-stats)
+
+## Skills
+
+```
+var programmingLanguages = ["Python", "JS", "C#", "C++"];
+var stylesheets = "CSS";
+var frameworks = ["React (Library)", "Vue", "Node.js", ".NET"];
+var databases = ["PostgreSQL", "MySQL", "SQLServer"];
+var learning = ["MongoDB", "Docker", "Kubernates"];
+var languages = {spanish: "Native", english: "Intermediate B1"}
+```
+
+ 📫 How to reach me:
+ 
+ - Linkedin > www.linkedin.com/in/jhonnycamachoencinas
+ - email > makykamacho@gmail.com
+
+
 
 
 <!--
