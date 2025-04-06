@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Johnny, I'm 22 years old, and I consider myself a
+My name's Johnny, I'm 25 years old, and I consider myself a
 creative and responsible person. I've been focusing my practices
 and studies on UI/UX technologies. Through my university
 projects, I worked with Start Americas Together to develop a
